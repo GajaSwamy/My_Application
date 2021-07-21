@@ -2,6 +2,6 @@ package com.example.myapplication
 
 class sample {
     fun main(){
-        print("Hi gajananad")
+        print("Hi Gajananad's aisu")
     }
 }
