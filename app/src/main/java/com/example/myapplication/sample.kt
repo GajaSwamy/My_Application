@@ -5,4 +5,8 @@ class sample {
         print("Hi Gajananad's aisu")
         //adding comment to check head
     }
+
+    fun toDemonstareReset(){
+
+    }
 }
