@@ -29,4 +29,8 @@ fun main(){
     fun method(){
 
     }
+
+    fun methods(){
+
+    }
 }
