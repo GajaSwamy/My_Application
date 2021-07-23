@@ -25,4 +25,8 @@ fun main(){
 
     val x=  readLine()!!.toInt()
     print(x)
+
+    fun method(){
+
+    }
 }
